@@ -1,0 +1,5 @@
+{
+  "name": "Bal Fitness Club Gym",
+  "description": "Elite wellness destination in Saharanpur, offering bespoke training and state-of-the-art recovery in a luxury boutique environment.",
+  "requestFramePermissions": ["geolocation"]
+}
